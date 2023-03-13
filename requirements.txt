@@ -1,0 +1,2 @@
+binance==0.2.0
+decimal==1.0.0
